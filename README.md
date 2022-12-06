@@ -1,6 +1,6 @@
 # kinetic-css-loader
 
-Project done using HTML, CSS and vanila JavaScript.
+Project done using HTML and CSS.
 
 ### `kinetic-css-loader` :point_right: [Live Demo](https://maxi69k.github.io/kinetic-css-loader) :point_left: just do a CTRL+click (to open :link: in a new tab)
 
